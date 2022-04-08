@@ -1,2 +1,2 @@
-# SampleSpringBoot-Rest
+# SampleSpringBootApplication
 Sample Spring Boot Project
